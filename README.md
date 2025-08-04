@@ -1,4 +1,4 @@
-# Hi, I'm Daniel Garcia 👋
+# Dan
 
 ### SOFTWARE ENGINEER | GAME DEVELOPER | U.S. ARMY VETERAN | CALMER THAN YOU ARE, DUDE
 
