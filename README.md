@@ -13,7 +13,7 @@
 
 After 20+ years with Uncle Sam (still maintain a **Top Secret SCI clearance** ) I have decided to pivot into what I have always been passionate about.
 
-My brain loves problem-solving and I really just want to build to build impactful tools. I have always been a tech nerd, so I transitioned into software development. I recently completed the **Microsoft Software & Systems Academy (MSSA)** for Cloud Application Development, where I honed my skills in C#, .NET, and Azure. 
+My brain loves problem-solving and I really just want to build cool things. I have always been a tech nerd, so I transitioned into software development. I recently completed the **Microsoft Software & Systems Academy (MSSA)** for Cloud Application Development, where I honed my skills in C#, .NET, and Azure. 
 
 ---
 
