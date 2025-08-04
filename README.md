@@ -46,7 +46,7 @@ I developed a cross-platform mobile application to help fellow veterans navigate
 ---
 <p align="center">
   <a href="#/">
-    <img height="210rem" src="https://github-readme-stats.vercel.app/api?username=Daniel-W-Garcia&show_icons=true&theme=synthwave&icon_color=158cef&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800"/>
-    <img height="210rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-W-Garcia&theme=synthwave&show_icons=true&hide_border=true&layout=compact&hide=tcl&langs_count=8"/>
+    <img height="210rem" src="https://github-readme-stats.vercel.app/api?username=Daniel-W-Garcia&show_icons=true&theme=tokyonight&icon_color=158cef&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800"/>
+    <img height="210rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-W-Garcia&theme=dracula&show_icons=true&hide_border=true&layout=compact&hide=tcl&langs_count=8"/>
   </a>
 </p>
