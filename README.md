@@ -44,5 +44,3 @@ I developed a cross-platform mobile application to help fellow veterans navigate
 
 
 ---
-
-Thank you for visiting my profile. I am actively seeking new opportunities and am always open to connecting with fellow developers, veterans in tech, and anyone passionate about building great software.
