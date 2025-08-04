@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Garcia 👋
 
-### SOFTWARE ENGINEER | SECURE SYSTEMS INTEGRATOR | U.S. ARMY VETERAN
+### SOFTWARE ENGINEER | GAME DEVELOPER | U.S. ARMY VETERAN | CALMER THAN YOU ARE, DUDE
 
 <a href="https://www.linkedin.com/in/daniel-w-garcia/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,9 +11,9 @@
 
 ---
 
-I am a **Software Engineer** and **U.S. Army veteran** with a **Top Secret SCI clearance** and over 20 years of experience leading teams and managing secure, mission-critical systems for the Department of Defense. My career has been dedicated to ensuring operational integrity and security, from the tactical edge to strategic intelligence environments at the **National Security Agency (NSA)**.
+After 20+ years with Uncle Sam (still maintain a **Top Secret SCI clearance** ) I have decided to pivot into what I have always been passionate about.
 
-Driven by a passion for problem-solving and a desire to build impactful tools, I transitioned into software development. I recently completed the **Microsoft Software & Systems Academy (MSSA)** for Cloud Application Development, where I honed my skills in C#, .NET, and Azure. My goal is to leverage my unique background in security and leadership to build robust, secure, and user-centric applications.
+My brain loves problem-solving and I really just want to build to build impactful tools. I have always been a tech nerd, so I transitioned into software development. I recently completed the **Microsoft Software & Systems Academy (MSSA)** for Cloud Application Development, where I honed my skills in C#, .NET, and Azure. 
 
 ---
 
@@ -26,15 +26,11 @@ Driven by a passion for problem-solving and a desire to build impactful tools, I
 *   Microsoft Azure | Azure DevOps
 *   Windows & Linux Environments
 
-**Tools & Concepts:**
-*   Visual Studio | Git & GitHub | Agile/Scrum
-*   CI/CD Fundamentals | Secure Access Management | System Hardening
-
 ---
 
 ### 🚀 Featured Project: VA Disability & Compensation Calculator
 
-I developed a cross-platform mobile application to help fellow veterans navigate the complexities of the VA disability rating system. The app has been downloaded over **9,000 times** across the Google Play and Apple App Stores.
+I developed a cross-platform mobile application to help fellow veterans navigate the complexities of the VA disability rating system. The app has been downloaded over **10,000 times** across the Google Play and Apple App Stores.
 
 *   **Technology:** Built with **.NET MAUI** from a single C# codebase for both Android and iOS.
 *   **Purpose:** Solves a real-world problem for the veteran community by simplifying a confusing process.
@@ -43,11 +39,9 @@ I developed a cross-platform mobile application to help fellow veterans navigate
 ---
 
 ### 🔭 What I'm Focused On
-
-*   **Building Secure Cloud Solutions:** Applying my security-first mindset to architecting and deploying applications in Azure.
-*   **Cross-Platform Development:** Continuing to enhance my skills in .NET MAUI to create seamless experiences across devices.
+*   **Lifelong Learning:** Learning new things is my favorite thing to do. It's really what drives me and keeps me motivated.
 *   **Open-Source Contribution:** I am always looking for opportunities to contribute to open-source projects that align with my values and skills.
-*   **Lifelong Learning:** I am continuously expanding my knowledge base and am passionate about staying current with the latest technologies and best practices.
+
 
 ---
 
