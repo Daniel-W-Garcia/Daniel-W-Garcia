@@ -19,7 +19,7 @@ My brain loves problem-solving and I really just want to build cool things. I ha
 
 ### 🔧 My Tech Stack & Skills
 
-**Languages & Frameworks:**
+**Languages & Frameworks:**  
 C++  |  C# | .NET MAUI | Python | SQL | HTML | PowerShell | Linux
 
 **Cloud & Platforms:**
