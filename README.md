@@ -36,17 +36,3 @@ I developed a cross-platform mobile application to help fellow veterans navigate
 *   **Purpose:** Solves a real-world problem for the veteran community by simplifying a confusing process.
 *   **Lifecycle:** I managed the entire project lifecycle, from initial concept and design to coding, publishing, and ongoing updates based on user feedback.
 
----
-
-### 🔭 What I'm Focused On
-*   **Lifelong Learning:** Learning new things is my favorite thing to do. It's really what drives me and keeps me motivated.
-*   **Open-Source Contribution:** I am always looking for opportunities to contribute to open-source projects that align with my values and skills.
-
-
----
-<p align="center">
-  <a href="#/">
-    <img height="210rem" src="https://github-readme-stats.vercel.app/api?username=Daniel-W-Garcia&show_icons=true&theme=tokyonight&icon_color=158cef&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800"/>
-    <img height="210rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-W-Garcia&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&hide=tcl&langs_count=8"/>
-  </a>
-</p>
